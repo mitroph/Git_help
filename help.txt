@@ -6,3 +6,6 @@
 5. git push - отправить изменения
 6. git pull - получить изменения
 7. git clone url - вытащить новый проект 
+
+
+brwser-sync start --server --directory --files "*"
